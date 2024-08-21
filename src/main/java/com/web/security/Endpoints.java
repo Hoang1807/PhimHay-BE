@@ -2,7 +2,7 @@ package com.web.security;
 
 
 public class Endpoints {
-    public static final String front_end_host = "https://hoang1807.github.io/PhimHay-FE/";
+    public static final String front_end_host = "https://hoang1807.github.io";
 
     //    public static final String front_end_host = "https://myprojectfe.vercel.app";
     public static final String[] PUBLIC_GET_ENDPOINS = {
